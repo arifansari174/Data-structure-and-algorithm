@@ -15,6 +15,6 @@ public class SecondLargest {
             }
         }
         System.out.println("2nd largest number is: " + arr[1]);
-    }
+	}
 
 }
