@@ -12,7 +12,7 @@ public class ThirdLargest {
                     arr[i] = arr[j];
                     arr[j] = temp;
                 }
-            }
+			}
         }
         System.out.println("3rd largest number is: " + arr[2]);
     }
